@@ -1,4 +1,7 @@
-**/content
+**/content/*
 
 **/.vscode
 **/.ipynb_checkpoints
+
+**/s09_generative_adversarial/training_images/*
+**/s09_generative_adversarial/training_checkpoints/*
